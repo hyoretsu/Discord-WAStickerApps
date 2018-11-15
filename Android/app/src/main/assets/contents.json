@@ -1,0 +1,162 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Main",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Discord.png",
+      "stickers": [
+        {
+          "image_file": "FeelsBad.webp"
+        },
+        {
+          "image_file": "FeelsGood.webp"
+        },
+        {
+          "image_file": "FeelsLazy.webp"
+        },
+        {
+          "image_file": "FeelsPrideful.webp"
+        },
+        {
+          "image_file": "HandsUp.webp"
+        },
+        {
+          "image_file": "Hey.webp"
+        },
+        {
+          "image_file": "HyperThink.webp"
+        },
+        {
+          "image_file": "HyperThonk.webp"
+        },
+        {
+          "image_file": "Kowaii.webp"
+        },
+        {
+          "image_file": "LazyHyperThonk.webp"
+        },
+        {
+          "image_file": "PeekingBlob.webp"
+        },
+        {
+          "image_file": "PeekingDuck.webp"
+        },
+        {
+          "image_file": "PeekingMF.webp"
+        },
+        {
+          "image_file": "Seriously.webp"
+        },
+        {
+          "image_file": "SquidwardDab.webp"
+        },
+        {
+          "image_file": "Stop.webp"
+        },
+        {
+          "image_file": "Sugoi.webp"
+        },
+        {
+          "image_file": "ThatsClose.webp"
+        },
+        {
+          "image_file": "ThatsWeird.webp"
+        },
+        {
+          "image_file": "This.webp"
+        },
+        {
+          "image_file": "Thonking.webp"
+        },
+        {
+          "image_file": "WTH.webp"
+        },
+        {
+          "image_file": "YouMonster.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pepe",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Pepe.png",
+      "stickers": [
+        {
+          "image_file": "FeelsEvil.webp"
+        },
+        {
+          "image_file": "FeelsGangsta.webp"
+        },
+        {
+          "image_file": "FeelsRageMan.webp"
+        },
+        {
+          "image_file": "FeelsSuicide.webp"
+        },
+        {
+          "image_file": "FeelsThinkingMan.webp"
+        },
+        {
+          "image_file": "Nani.webp"
+        },
+        {
+          "image_file": "PepeExorcist.webp"
+        },
+        {
+          "image_file": "PepeSad.webp"
+        },
+        {
+          "image_file": "PepeYay.webp"
+        },
+        {
+          "image_file": "StayAway.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Tom and Jerry",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "TomAndJerry.png",
+      "stickers": [
+        {
+          "image_file": "Hilarious.webp"
+        },
+        {
+          "image_file": "ItsTime.webp"
+        },
+        {
+          "image_file": "Rage.webp"
+        },
+        {
+          "image_file": "Really.webp"
+        },
+        {
+          "image_file": "WhatTheFuck.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Twitch",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Twitch.png",
+      "stickers": [
+        {
+          "image_file": "Doge.webp"
+        },
+        {
+          "image_file": "Kappa.webp"
+        },
+        {
+          "image_file": "KappaApproves.webp"
+        },
+        {
+          "image_file": "PogChamp.webp"
+        }
+      ]
+    }
+  ]
+}
