@@ -7,6 +7,18 @@
       "tray_image_file": "Discord.png",
       "stickers": [
         {
+          "image_file": "BulbaUWU.webp"
+        },
+        {
+          "image_file": "CattoBlush.webp"
+        },
+        {
+          "image_file": "CattoCry.webp"
+        },
+        {
+          "image_file": "DogeKek.webp"
+        },
+        {
           "image_file": "FeelsBad.webp"
         },
         {
@@ -17,6 +29,12 @@
         },
         {
           "image_file": "FeelsPrideful.webp"
+        },
+        {
+          "image_file": "Glare.webp"
+        },
+        {
+          "image_file": "Haha.webp"
         },
         {
           "image_file": "HandsUp.webp"
@@ -31,10 +49,16 @@
           "image_file": "HyperThonk.webp"
         },
         {
+          "image_file": "KanyeLul.webp"
+        },
+        {
           "image_file": "Kowaii.webp"
         },
         {
           "image_file": "LazyHyperThonk.webp"
+        },
+        {
+          "image_file": "Ohoho.webp"
         },
         {
           "image_file": "PeekingBlob.webp"
@@ -44,6 +68,9 @@
         },
         {
           "image_file": "PeekingMF.webp"
+        },
+        {
+          "image_file": "Scared.webp"
         },
         {
           "image_file": "Seriously.webp"
@@ -70,7 +97,16 @@
           "image_file": "Thonking.webp"
         },
         {
+          "image_file": "Woohoo.webp"
+        },
+        {
+          "image_file": "Wowzers.webp"
+        },
+        {
           "image_file": "WTH.webp"
+        },
+        {
+          "image_file": "Yeet.webp"
         },
         {
           "image_file": "YouMonster.webp"
@@ -83,6 +119,9 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "Pepe.png",
       "stickers": [
+        {
+          "image_file": "ClownPepe.webp"
+        },
         {
           "image_file": "FeelsEvil.webp"
         },
@@ -99,19 +138,55 @@
           "image_file": "FeelsThinkingMan.webp"
         },
         {
+          "image_file": "MonkaHmm.webp"
+        },
+        {
+          "image_file": "MonkaS.webp"
+        },
+        {
+          "image_file": "MonkaT.webp"
+        },
+        {
           "image_file": "Nani.webp"
+        },
+        {
+          "image_file": "OmegaKek.webp"
+        },
+        {
+          "image_file": "PepeCry.webp"
         },
         {
           "image_file": "PepeExorcist.webp"
         },
         {
+          "image_file": "Pepega.webp"
+        },
+        {
+          "image_file": "PepeHmm.webp"
+        },
+        {
+          "image_file": "PepeKnife.webp"
+        },
+        {
+          "image_file": "PepeRetard.webp"
+        },
+        {
           "image_file": "PepeSad.webp"
+        },
+        {
+          "image_file": "PepeSrsly.webp"
         },
         {
           "image_file": "PepeYay.webp"
         },
         {
+          "image_file": "Poggers.webp"
+        },
+        {
           "image_file": "StayAway.webp"
+        },
+        {
+          "image_file": "YouDidNot.webp"
         }
       ]
     },
@@ -154,7 +229,42 @@
           "image_file": "KappaApproves.webp"
         },
         {
+          "image_file": "OmegaLul.webp"
+        },
+        {
           "image_file": "PogChamp.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "MapleStory",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Maple.png",
+      "stickers": [
+        {
+          "image_file": "DamnYou.webp"
+        },
+        {
+          "image_file": "Definitely.webp"
+        },
+        {
+          "image_file": "EyeCreep.webp"
+        },
+        {
+          "image_file": "Mushdab.webp"
+        },
+        {
+          "image_file": "PokerFace.webp"
+        },
+        {
+          "image_file": "WhateverSnail.webp"
+        },
+        {
+          "image_file": "Wot.webp"
+        },
+        {
+          "image_file": "Wow.webp"
         }
       ]
     }
