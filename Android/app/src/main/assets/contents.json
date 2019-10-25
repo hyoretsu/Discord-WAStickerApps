@@ -16,9 +16,6 @@
           "image_file": "CattoCry.webp"
         },
         {
-          "image_file": "DogeKek.webp"
-        },
-        {
           "image_file": "FeelsBad.webp"
         },
         {
@@ -43,9 +40,6 @@
           "image_file": "Hey.webp"
         },
         {
-          "image_file": "HyperThink.webp"
-        },
-        {
           "image_file": "HyperThonk.webp"
         },
         {
@@ -67,9 +61,6 @@
           "image_file": "PeekingDuck.webp"
         },
         {
-          "image_file": "PeekingMF.webp"
-        },
-        {
           "image_file": "Scared.webp"
         },
         {
@@ -88,9 +79,6 @@
           "image_file": "ThatsClose.webp"
         },
         {
-          "image_file": "ThatsWeird.webp"
-        },
-        {
           "image_file": "This.webp"
         },
         {
@@ -104,9 +92,6 @@
         },
         {
           "image_file": "WTH.webp"
-        },
-        {
-          "image_file": "Yeet.webp"
         },
         {
           "image_file": "YouMonster.webp"
@@ -236,7 +221,7 @@
         }
       ]
     },
-    {
+	{
       "identifier": "5",
       "name": "MapleStory",
       "publisher": "Hyoretsu",
@@ -252,7 +237,7 @@
           "image_file": "EyeCreep.webp"
         },
         {
-          "image_file": "Mushdab.webp"
+          "image_file": "MushDab.webp"
         },
         {
           "image_file": "PokerFace.webp"
@@ -265,6 +250,29 @@
         },
         {
           "image_file": "Wow.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "6",
+      "name": "2nd Main",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Discord.png",
+      "stickers": [
+        {
+          "image_file": "ThatsWeird.webp"
+        },
+        {
+          "image_file": "PeekingMF.webp"
+        },
+        {
+          "image_file": "DogeKek.webp"
+        },
+        {
+          "image_file": "HyperThink.webp"
+        },
+        {
+          "image_file": "Yeet.webp"
         }
       ]
     }
